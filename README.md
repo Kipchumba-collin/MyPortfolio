@@ -1,19 +1,5 @@
 ### Hi there 👋
 
-<!--
-**mungaben/mungaben** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on dev.to clone with nextjs
-- 🌱 I’m currently learning NEXTJS ,CREATING 3D OBJECTS
-- 🤔 I’m looking for help with open project to contribute to using python or javascript
-- 💬 Ask me about python,django,django-rest-framework,javascript,react,next-13
-- 📫 How to reach me: mungaben21@gmail.com
-- ⚡ Fun fact: it always work in my machine 😄
--->
-
-<!-- <h1 align="center">Hello</h1> -->
 <h3 align="center">I am Collin, a passionate full-stack web developer </h3>
 
 - 🔭 I’m currently working on ASP.NET MVC
@@ -21,7 +7,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with open project to contribute to using python or javascript and C#
 - 💬 Ask me about python,django,django-rest-framework,javascript and SQL
 - ⚡ Fun fact: it always work in my machine
-- 📫 How to reach me: Twitter; LinkedIn
+- 📫 How to reach me: <a href="">Twitter</a>; LinkedIn
 
 
 <!-- [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31xjmm232xf2slflihwc57zvt7om&cover_image=true&theme=default&show_offline=false&background_color=37e614&interchange=false)](https://github.com/kittinan/spotify-github-profile) -->
