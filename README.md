@@ -7,7 +7,7 @@
 - 🤔 I’m looking for help with open project to contribute to using python or javascript and C#
 - 💬 Ask me about python,django,django-rest-framework,javascript and SQL
 - ⚡ Fun fact: it always work in my machine
-- 📫 How to reach me: <a href="https://twitter.com/Kipchumb3Colli1">Twitter</a>; LinkedIn
+- 📫 How to reach me: <a href="https://twitter.com/Kipchumb3Colli1">Twitter</a>; LinkedIn <a href="https://www.linkedin.com/mynetwork/invite-connect/connections/"></a>
 
 
 <!-- [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31xjmm232xf2slflihwc57zvt7om&cover_image=true&theme=default&show_offline=false&background_color=37e614&interchange=false)](https://github.com/kittinan/spotify-github-profile) -->
