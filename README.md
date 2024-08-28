@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on ASP.NET MVC
 - 🌱 I’m currently learning **Development in Dynamics 365**
 - 🤔 I’m looking for help with open project to contribute to using python or javascript and C#
-- 💬 Ask me about python,django,django-rest-framework,javascript and SQL
+- 💬 Ask me about bug hunting and test automation, i wont say much but i will give solution
 - ⚡ Fun fact: it always work in my machine
 - 📫 How to reach me: <a href="https://twitter.com/Kipchumb3Colli1">Twitter</a>; <a href="https://www.linkedin.com/mynetwork/invite-connect/connections/">LinkedIn</a>
 
