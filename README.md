@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<h3 align="center">I am Collin, a passionate full-stack web developer </h3>
+<h3 align="center">I am Collin, a passionate software engineer </h3>
 
 - 🔭 I’m currently working on ASP.NET MVC
 - 🌱 I’m currently learning **Development in Dynamics 365**
